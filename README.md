@@ -2,13 +2,13 @@
 
 **pre-commit** script allows to run tests before the commit
  
-#Installation
+# Installation
 
 Please copy **pre-commit** file to _**./git/hooks**_ folder
 
-##Ouput example
+## Ouput example
 
-###Check commit fail:
+### Check commit fail:
 
 ```bash
  git commit -m "Add pre-commit hook - run unit tests before commit"
