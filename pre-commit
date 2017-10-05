@@ -1,0 +1,12 @@
+#!/bin/bash
+
+python tests.py
+
+if [ $? -ne 0 ]; then
+    echo "Tests failed, aborting the commit"
+    exit 1
+else
+    echo "All tests passed, commiting your changes"
+    exit 0
+fi
+
