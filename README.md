@@ -30,7 +30,7 @@ FAILED (errors=1)
 Tests failed, aborting the commit
 ```
 
-###Check commit pass:
+### Check commit pass:
 
 ```bash
 $ git commit -m "Add pre-commit hook - run unit tests before commit"
