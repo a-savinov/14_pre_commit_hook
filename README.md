@@ -4,7 +4,7 @@
  
 # Installation
 
-Please copy **pre-commit** file to _**./git/hooks**_ folder
+Please copy **pre-commit** file to _**.git/hooks**_ folder
 
 ## Ouput example
 
